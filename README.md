@@ -63,6 +63,12 @@ print("--------------------------------------------------------------")
 
 ## Output :
 
+
+
+
+
+
+
 ![image](https://github.com/lokeshnarayanan/Muttiple-capacity-with-infinite-capacity/assets/119393019/ffcef254-c880-4659-a4a2-4836037e5f29)
 
 
